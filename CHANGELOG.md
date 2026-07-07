@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/cabs-tech/example-application/compare/v1.0.0...v1.1.0) (2026-07-07)
+
+
+### Features
+
+* change to question ([5c7f5b5](https://github.com/cabs-tech/example-application/commit/5c7f5b5e27919db62ca86a624995ee48808c424d))
+
 ## 1.0.0 (2026-06-26)
 
 
